@@ -4,4 +4,4 @@ int main() {
     
 }
 
-void test()
+void MainFunc()
