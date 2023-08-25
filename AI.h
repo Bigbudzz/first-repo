@@ -1,1 +1,3 @@
-Nice AI okay
+Nice AI okay    
+
+main fucntion
