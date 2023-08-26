@@ -1,4 +1,0 @@
-//hello
-int func()
-
-ddd
